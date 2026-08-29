@@ -2,8 +2,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
 <g id="thermometer-snow" clip-path="url(#clip0_2045_49316)">
 <g id="Thermometer Mercury">
-<circle id="Reservoir" cx="64" cy="83" r="9" fill="#D94A4A" />
-<rect id="Value" x="61" y="50" width="6" height="29" rx="3" fill="#D94A4A" />
+<circle id="Reservoir" cx="64" cy="83" r="9" fill="#2C73E6" />
+<rect id="Value" x="61" y="50" width="6" height="29" rx="3" fill="#2C73E6" />
 </g>
 <g id="Thermometer Glass" clip-path="url(#clip1_2045_49316)">
 <g id="Mask group">
