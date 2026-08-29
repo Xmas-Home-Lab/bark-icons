@@ -7,6 +7,9 @@
 - `icons/machine-status-v1.png`：机器状态
 - `icons/machine-failure-v1.png`：机器故障
 - `icons/machine-recovery-v1.png`：故障恢复
+- `icons/machine-status-v2.png`：无右下角徽标的机器状态
+- `icons/machine-failure-v2.png`：无右下角徽标的机器故障
+- `icons/machine-recovery-v2.png`：无右下角徽标的故障恢复
 - `icons/gold-ingot-v1.png`：黄金
 - `icons/weather-*-v1.png`：天气与天气预警
 - `source/*.svg`：机器图标的可审计矢量源文件
@@ -18,7 +21,7 @@ PNG 文件为 `512 × 512`、sRGB、透明画布。Telegram 和 Bitcoin 等圆�
 
 服务器机架图形修改自 [Solar Icon Set](https://github.com/480-Design/Solar-Icon-Set) 的 `server-square-bold-duotone`，作者为 480 Design，依据 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 使用。
 
-本仓库对原图形进行了配色、圆形背景和状态徽标组合。衍生图标继续以 CC BY 4.0 提供。
+本仓库对原图形进行了配色和圆形背景处理。v1 另外包含状态徽标；v2 移除右下角徽标，避免与 Bark 通知自身的角标区域重叠。衍生图标继续以 CC BY 4.0 提供。
 
 黄金图标修改自 [Gold ingot icon.svg](https://commons.wikimedia.org/wiki/File:Gold_ingot_icon.svg)，作者为 Martin Strachoň，依据 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 使用。
 
